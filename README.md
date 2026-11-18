@@ -26,4 +26,5 @@ copy .env.example .env
 ## Status
 
 - [x] Step 0: Setup
-- [ ] Step 1: Download and split the laws
+- [x] Step 1: Download and split the laws (1,170 pieces: recitals, articles, annexes in EN + DE)
+- [ ] Step 2: Chunking + embeddings
