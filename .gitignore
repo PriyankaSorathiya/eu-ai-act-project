@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and settings
+.env
+
+# Data files (the download script can recreate them)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Editors and notebooks
+.vscode/
+.idea/
+.ipynb_checkpoints/

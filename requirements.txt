@@ -1,0 +1,5 @@
+# Step 0-1: settings and downloading/parsing the laws
+python-dotenv
+requests
+beautifulsoup4
+lxml
